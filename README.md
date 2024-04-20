@@ -19,7 +19,7 @@ As a passionate and self-motivated Data Scientist, I excel in creating digital s
 Explore my Data Science journey! Check out my 
 <a href="https://www.linkedin.com/in/azul-noguera-95021b237/">Online CV</a>.
                                                                                               
-<p align="">
+<p align="center">
 <a href="https://github.com/azulnogueraa">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
