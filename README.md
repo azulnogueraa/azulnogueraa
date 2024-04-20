@@ -32,12 +32,16 @@ Explore my Data Science journey! Check out my
 <br>
 
                                                                                                          
-<p align="center">
+<p align="">
 <a href="https://github.com/azulnogueraa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
+
+<br>
+<br>
 
 
 <div align="center">
@@ -71,12 +75,17 @@ Explore my Data Science journey! Check out my
 </div>
 
 
-<br clear="both">
+
+<br>
 
 <img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/snake.svg" alt="Snake animation" />
+
+
+<img src="https://azulnogueraa.github.io/azulnogueraa/snake.svg" alt="Snake animation" />
 
 
 
