@@ -18,24 +18,11 @@ As a passionate and self-motivated Data Scientist, I excel in creating digital s
 
 Explore my Data Science journey! Check out my 
 <a href="https://www.linkedin.com/in/azul-noguera-95021b237/">Online CV</a>.
-
-
-
-
-
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
-
-                                                                                                         
+                                                                                              
 <p align="">
 <a href="https://github.com/azulnogueraa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
