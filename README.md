@@ -62,3 +62,7 @@ Explore my Data Science journey! Check out my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
