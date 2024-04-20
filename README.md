@@ -23,6 +23,7 @@ Explore my Data Science journey! Check out my
 <a href="https://github.com/azulnogueraa">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=azulnogueraa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
 </a>
 </p>
 
@@ -60,19 +61,4 @@ Explore my Data Science journey! Check out my
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
-
-
-
-<br>
-
-<img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/snake.svg" alt="Snake animation" />
-
-
-<img src="https://azulnogueraa.github.io/azulnogueraa/snake.svg" alt="Snake animation" />
-
-
 
