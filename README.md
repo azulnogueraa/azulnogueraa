@@ -3,13 +3,13 @@
 </div>
 <img src="img/banner.png">
 
-<a href="https://www.linkedin.com/in/azul-noguera-95021b237/">
-  <img src="https://img.shields.io/badge/Linkedin-green?style=flat&logo=linkedin&logoColor=white&color=0B66C2">
+<a href="https://www.linkedin.com/in/azul-noguera-95021b237/" align="center">
+  <img src="https://img.shields.io/badge/Linkedin-green?style=flat&logo=linkedin&logoColor=white&color=0B66C2" height="35">
 </a>
 
 
-<a href="https://linktr.ee/azulnoguera">
-  <img src="https://img.shields.io/badge/Linktree-green?style=flat&logo=linktree&logoColor=white&color=44E660">
+<a href="https://linktr.ee/azulnoguera" align="center">
+  <img src="https://img.shields.io/badge/Linktree-green?style=flat&logo=linktree&logoColor=white&color=44E660" height="35" >
 </a>
 
 ## 👩🏽‍💻 Welcome to my portfolio 
@@ -21,9 +21,9 @@ Explore my Data Science journey! Check out my
                                                                                               
 <p align="center">
 <a href="https://github.com/azulnogueraa">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
-  <img src="https://streak-stats.demolab.com?user=azulnogueraa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com?user=azulnogueraa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
 </a>
 </p>
 
