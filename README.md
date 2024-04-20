@@ -34,7 +34,55 @@ Explore my Data Science journey! Check out my
                                                                                                          
 <p align="center">
 <a href="https://github.com/azulnogueraa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azulnogueraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azulnogueraa&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/azulnogueraa/azulnogueraa/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
