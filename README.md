@@ -13,8 +13,8 @@
 </a>
 
 ## 👩🏽‍💻 Welcome to my portfolio 
+As a passionate and self-motivated Data Scientist, I excel in creating digital solutions thanks to a strong technical and multidisciplinary background. My skills as a developer are supported by my experience in machine learning, deep learning, and natural language processing, in addition to business knowledge. Motivated to advance in the field of artificial intelligence, I am seeking a dynamic remote role where I can contribute innovations and collaborate flexibly with global teams. I leverage my organizational and communication skills, as well as my commitment to continuous learning, to effectively contribute to the success of international projects and teams.
 
-As a passionate and self-motivated Data Scientist, I excel in creating digital solutions with a strong technical and multidisciplinary background. My developer skills are complemented by expertise in digital technology, business insight, and an understanding of neuroscience and design. Eager to advance in AI, I’m seeking a dynamic remote role to offer innovative contributions and work flexibly with global teams, utilizing my organizational and communication skills and a commitment to continuous learning.
 
 Explore my Data Science journey! Check out my 
 <a href="https://www.linkedin.com/in/azul-noguera-95021b237/">Online CV</a>.
